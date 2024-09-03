@@ -21,6 +21,10 @@ namespace Ex_git
             Console.WriteLine(Add(1, 2));
             Console.WriteLine(Sub(5, 3));
             Console.ReadLine();
+            Console.WriteLine("Hello");
+            Console.ReadLine();
+            Console.WriteLine("I am reshma");
+            Console.ReadLine();
 
         }
     }
